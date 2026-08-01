@@ -53,7 +53,7 @@ Each problem folder contains:
 
 | #   | Problem           | Solution                                       |
 | --- | ----------------- | ---------------------------------------------- |
-| 118 | Pascal's Triangle | [README](./Easy/Pascal's%20Triangle/README.md) |
+| 118 | Pascal's Triangle | [README](./Easy/118_Pascals_Triangle/README.md) |
 
 ### 🟡 Medium
 
